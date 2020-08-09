@@ -1,0 +1,71 @@
+{
+
+    "users": [
+        {
+
+            "id": "1",
+            "firstName":"Oscar",
+            "lastName": "Riquelme",
+            "email": "riquelme.oscar@gmail.com",
+            "age": 37,
+            "companyID":"22"
+
+        },
+        {
+
+            "id": "2",
+            "firstName":"Paola",
+            "lastName": "Olate",
+            "email": "riquelme.oscar@gmail.com",
+            "age": 37,
+            "companyID":"23"
+
+        },
+        {
+
+            "id": "3",
+            "firstName":"Huguito",
+            "lastName": "Doe",
+            "email": "riquelme.oscar@gmail.com",
+            "age": 37,
+            "companyID":"24"
+
+        },
+        {
+
+            "id": "4",
+            "firstName":"Sylvia",
+            "lastName": "Doe",
+            "email": "riquelme.oscar@gmail.com",
+            "age": 37,
+            "companyID":"25"
+
+        }
+
+    ],
+
+    "companies": [
+
+        {
+            "id":"22",
+            "name": "Apple",
+            "description": "Apple Inc"
+        },
+        {
+            "id":"23",
+            "name": "Google",
+            "description": "Alphabet"
+        },
+        {
+            "id":"24",
+            "name": "Amazon",
+            "description": "Amazon Inc"
+        },
+        {
+            "id":"25",
+            "name": "Toyota",
+            "description": "Toyota Automobiles Inc"
+        }
+    ]
+
+}
